@@ -1,0 +1,19 @@
+# NLW eSports 
+
+![preview](./.github/preview_.png)
+
+ > Trilha Explorer
+
+Projeto contuído no evento Next Level Week da Rocketseat
+
+[ 🔗 Clique aqui para acessar](https://alex-sampaio-lima.github.io/nlw-esports-explorer/)
+
+## 🛠 TecnoLogias
+
+- HTML
+- CSS
+- Git e GitHub
+
+## 💛 Contato
+
+alexsandersampaiolima12@gmail.com
